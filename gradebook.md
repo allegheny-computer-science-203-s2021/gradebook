@@ -9,13 +9,16 @@
 ### 	Quizzes
 
 
-### 	Practicals
+### Exams
 
 
-### Labs
+### Practicals
 
 
-### Project
+### Project Reports
+
+
+### Software Projects
 					
 
 ### Comments
